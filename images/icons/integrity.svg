@@ -1,0 +1,12 @@
+<svg id="Group_211" data-name="Group 211" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.862" height="33" viewBox="0 0 30.862 33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_135" data-name="Rectangle 135" width="30.862" height="33" fill="none" stroke="#6a7fc3" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_211-2" data-name="Group 211" clip-path="url(#clip-path)">
+    <path id="Path_318" data-name="Path 318" d="M17.267.568c-.113-.009-.226-.009-.339-.016-.5-.029-1-.053-1.5-.052s-1,.023-1.5.052c-.113.007-.225.007-.339.016A23.1,23.1,0,0,0,.5,5.694C.5,19.221,5.318,28.785,15.41,32.5l.021-.038.021.038c10.092-3.715,14.91-13.279,14.91-26.806A23.1,23.1,0,0,0,17.267.568Z" fill="none" stroke="#6a7fc3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="6.868" cy="6.868" r="6.868" transform="translate(8.563 8.481)" fill="none" stroke="#6a7fc3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_319" data-name="Path 319" d="M12.837,15.326l1.745,1.745,3.443-3.444" fill="none" stroke="#6a7fc3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

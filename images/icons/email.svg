@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="15" viewBox="0 0 19 15">
+  <g id="new_post" transform="translate(-0.322)">
+    <path id="Shape" d="M17.1,15H1.9A1.889,1.889,0,0,1,0,13.127V1.876A1.89,1.89,0,0,1,1.9,0H17.1A1.89,1.89,0,0,1,19,1.876V13.127A1.889,1.889,0,0,1,17.1,15ZM1.9,4.689h0v8.438H17.1V4.689L9.5,9.375,1.9,4.689Zm0-2.813v.938L9.5,7.5l7.6-4.687V1.876Z" transform="translate(0.322 0)" fill="#0f2d67"/>
+  </g>
+</svg>
